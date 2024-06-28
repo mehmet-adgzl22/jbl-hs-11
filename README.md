@@ -20,3 +20,5 @@ https://jbl-projesi.netlify.app/
 
 
 #  JBL-hs-11-Proje Gif
+
+![Jbl-hs-11-giff](https://github.com/mehmet-adgzl22/jbl-hs-11/assets/169144147/f7d7236c-667e-47b0-b1ae-4f7d73507e55)
