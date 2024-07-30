@@ -16,7 +16,7 @@
 </ul>
 
 # JBL-hs-11-Proje Bağlantı Linki
-https://jbl-projesi.netlify.app/
+https://jbl-hs11.netlify.app/
 
 
 #  JBL-hs-11-Proje Gif
